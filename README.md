@@ -121,5 +121,5 @@ This project is MIT licensed - see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-Built with ❤️ Dave Simoes for the modern web
+Built with ❤️ by Dave Simoes for the modern web
 </p>
